@@ -23,7 +23,7 @@ twitter: ''
 email: firstname@cs.ucsb.edu
 # phone: 888 888 88 88
 address:
-  street: Rm. 2114 (SecLab), Harold Frank Hall
+  street: Room 2114 (SecLab), Harold Frank Hall
   city: Santa Barbara
   region: CA
   postcode: '93106-5110'
@@ -149,7 +149,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'UA-206799806-1'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
