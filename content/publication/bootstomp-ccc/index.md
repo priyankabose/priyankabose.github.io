@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Nilo Redini
 - Aravind Machiry
-- Dipanjan Das
+- admin
 - Yanick Fratantonio
 - Antonio Bianchi
 - Eric Gustafson

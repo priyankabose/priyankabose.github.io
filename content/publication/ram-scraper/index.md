@@ -5,7 +5,7 @@ title: An Identity Based Encryption Scheme Resilient to RAM Scraper Like Malware
 subtitle: ''
 summary: ''
 authors:
-- Dipanjan Das
+- admin
 - Priyanka Bose
 - S. Sree Vivek
 - S. Sharmila Deva Selvi

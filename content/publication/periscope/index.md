@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Dokyung Song
 - Felicitas Hetzelt
-- Dipanjan Das
+- admin
 - Chad Spensky
 - Yeoul Na
 - Stijn Volckaert

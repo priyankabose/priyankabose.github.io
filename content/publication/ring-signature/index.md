@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Priyanka Bose
-- Dipanjan Das
+- admin
 - Chandrasekharan Pandu Rangan
 tags: []
 categories: []

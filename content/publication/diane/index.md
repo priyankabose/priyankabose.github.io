@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Nilo Redini
 - Andrea Continella
-- Dipanjan Das
+- admin
 - Giulio De Pasquale
 - Aravind Machiry
 - Antonio Bianchi
