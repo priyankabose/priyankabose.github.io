@@ -22,6 +22,7 @@ draft: false
 
 url_pdf: 'papers/diane-sp-2021.pdf'
 url_code: 'https://github.com/ucsb-seclab/diane'
+url_slides: 'slides/diane-sp-2021-slides.pdf'
 url_teaser: 'https://www.youtube.com/watch?v=GXAM0HL-Un0'
 url_video: 'https://www.youtube.com/watch?v=mLyFoGIPFUY'
 
