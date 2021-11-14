@@ -1,30 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'BootStomp: On the Security of Bootloaders in Mobile Devices'
+title: 'Sailfish: Vetting Smart Contract State-Inconsistency Bugs in Seconds'
 subtitle: ''
 summary: ''
 authors:
-- Nilo Redini
-- Aravind Machiry
+- Priyanka Bose
 - admin
-- Yanick Fratantonio
-- Antonio Bianchi
-- Eric Gustafson
-- Yan Shoshitaishvili
-- Giovanni Vigna
+- Yanju Chen
+- Yu Feng
 - Christopher Kruegel
+- Giovanni Vigna
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2021-09-05T09:27:35-07:00
+date: '2022-01-01'
+lastmod: 2021-11-13T09:51:15-08:00
 featured: false
 draft: false
 
-url_pdf: 'papers/bootstomp-usenix-2017.pdf'
-url_code: 'https://github.com/ucsb-seclab/BootStomp'
-url_slides: 'slides/bootstomp-usenix-2017-slides.pdf'
-url_video: 'https://www.youtube.com/watch?v=n2pmGR0oUHk'
+url_pdf: 'https://arxiv.org/pdf/2104.08638.pdf'
+url_code: '#'
+url_slides: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -40,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-05T16:27:34.882476Z'
+publishDate: '2021-11-13T17:51:15.309455Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*USENIX Security Symposium (USENIX)*'
+publication: '*IEEE Symposium on Security and Privacy (IEEE S&P)*'
 ---

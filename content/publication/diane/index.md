@@ -44,5 +44,5 @@ publishDate: '2021-09-05T16:27:34.258153Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*42nd IEEE Symposium on Security and Privacy (IEEE S&P)*'
+publication: '*IEEE Symposium on Security and Privacy (IEEE S&P)*'
 ---

@@ -41,5 +41,5 @@ publishDate: '2021-09-05T16:27:34.690284Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*34th Chaos Communication Congress (34C3)*'
+publication: '*Chaos Communication Congress (CCC)*'
 ---
