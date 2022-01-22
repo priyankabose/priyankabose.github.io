@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dipanjan Das
+title: Priyanka Bose
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: System Security Researcher
+role: Security Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,9 +19,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Blockchain and Smart contract
-- Kernel fuzzing
+- Program analysis
 - Android fuzzing
-- IoT fuzzing
 
 # Education to show in About widget
 education:
@@ -29,12 +28,12 @@ education:
   - course: Ph.D. in Computer Science
     institution: University of California, Santa Barbara
     year: (Current)
-  - course: M.Tech. in Computer Science
+  - course: MS in Computer Science
     institution: Indian Institute of Technology, Madras
-    year: 2015
+    year: 2016
   - course: B.Tech. in Computer Science
     institution: Institute of Engineering and Management, Saltlake
-    year: 2010
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,16 +45,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/sher10ckk
+  link: https://twitter.com/cinderella0x80
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=wn70nFgAAAAJ&hl=en
+  link: https://scholar.google.co.in/citations?user=ZWP5cuMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/dipanjan
+  link: https://github.com/priyankabose
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/sherl0ck
+  link: https://www.linkedin.com/in/priyanka-bose-23555220
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,7 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D. student in the SecLab (Computer Security Lab), UC Santa Barbara, advised by professor Giovanni Vigna and Christopher Kruegel.
-Before that, I spent two beautiful years in IIT Madras while pursuing my M.Tech under the research guidance of professor Chandrasekaran PanduRangan.
-As part of my Ph.D. research, I am excited to explore different aspects of cryptoeconomics, with an emphasis on the security of blockchain and smart contract.
-Beyond that, I have a strong passion to develop automated vulnerability analysis techniques for low-level systems, e.g., operating system kernel, IoT devices, and Android.
+I am a Ph.D student at the SecLab at University of California, Santa Barbara advised by Professor Giovanni Vigna and Professor Christopher Kruegel. Prior to that, I completed Master of Science (MS) from IIT Madras under the guidance of Professor Chandrasekaran PanduRangan. 
+
+I am passionate about solving problems in the interplay of security and program analysis with an emphasis on Blockchain and Smart contracts. Moreover, I am excited to explore other aspects of security, e.g., Android, Kernel as my future research. When I am too tired with my research, I enjoy hunting for bugs and exploring the beauty of Santa Barbara!

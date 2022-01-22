@@ -5,8 +5,8 @@ title: Constant Size Ring Signature Without Random Oracle
 subtitle: ''
 summary: ''
 authors:
-- Priyanka Bose
 - admin
+- Dipanjan Das
 - Chandrasekharan Pandu Rangan
 tags: []
 categories: []

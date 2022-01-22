@@ -41,20 +41,11 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: Twitter
-    link: 'https://twitter.com/sher10ckk'
+    link: 'https://twitter.com/cinderella0x80'
   #- icon: skype
   #  icon_pack: fab
   #  name: Skype Me
   #  link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Keybase
-    link: 'https://keybase.io/holmessherlock'
-  - icon: telegram
-    icon_pack: fab
-    name: Telegram
-    link: 'https://t.me/h0lmessh3rl0ck'
-  #- icon: comments
   #  icon_pack: fas
   #  name: Discuss on Forum
   #  link: 'https://discourse.gohugo.io'

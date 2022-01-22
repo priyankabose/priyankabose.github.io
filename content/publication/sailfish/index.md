@@ -5,8 +5,8 @@ title: 'Sailfish: Vetting Smart Contract State-Inconsistency Bugs in Seconds'
 subtitle: ''
 summary: ''
 authors:
-- Priyanka Bose
 - admin
+- Dipanjan Das
 - Yanju Chen
 - Yu Feng
 - Christopher Kruegel
