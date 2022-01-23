@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D student at the SecLab at University of California, Santa Barbara advised by Professor Giovanni Vigna and Professor Christopher Kruegel. Prior to that, I completed Master of Science (MS) from IIT Madras under the guidance of Professor Chandrasekaran PanduRangan. 
+I am a Ph.D. student at the SecLab at University of California, Santa Barbara advised by professor Giovanni Vigna and Christopher Kruegel. Prior to that, I completed Master of Science (MS) from IIT Madras under the guidance of professor Chandrasekaran PanduRangan. 
 
 I am passionate about solving problems in the interplay of security and program analysis with an emphasis on Blockchain and Smart contracts. Moreover, I am excited to explore other aspects of security, e.g., Android, Kernel as my future research. When I am too tired with my research, I enjoy hunting for bugs and exploring the beauty of Santa Barbara!

@@ -5,12 +5,12 @@ title: 'Revisiting AES-GCM-SIV: multi-user security, faster key derivation, and 
 subtitle: ''
 summary: ''
 authors:
-- Priyanka Bose
+- admin
 - Viet Tung Hoang
 - Stefano Tessaro
 tags: []
 categories: []
-date: '2018-01-01'
+date: '2018-04-01'
 lastmod: 2021-09-05T09:27:35-07:00
 featured: false
 draft: false

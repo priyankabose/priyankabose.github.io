@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: custom
-day_night: true
-font: 'classic'
+theme: mr_robot
+day_night: false
+font: 'minimal'
 font_size: L
 
 # SEO
