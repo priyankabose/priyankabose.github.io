@@ -21,7 +21,7 @@ lastmod: 2021-11-13T09:51:15-08:00
 featured: false
 draft: false
 
-url_pdf: 'apers/columbus_paper.pdf'
+url_pdf: 'papers/columbus_paper.pdf'
 url_code: '#'
 url_slides: '#'
 url_video: '#'
